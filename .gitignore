@@ -1,0 +1,14 @@
+# Cache general
+*.log
+*.tmp
+*.cache
+
+# Neovim basura
+nvim/plugged
+nvim/plugin
+
+# Hyprland cosas temporales
+hypr/*.log
+
+# Wallpapers extra grandes
+*.zip

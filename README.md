@@ -1,34 +1,26 @@
-# 🐧 Arch Linux Rice – Hyprland Setup
+# 🐧 Arch Linux – Hyprland Rice
 
-Este repositorio contiene mi configuración personal de **Arch Linux** usando **Hyprland** como window manager principal. Incluye mis settings de Hyprland, Kitty, Rofi, Neovim y una colección de wallpapers.
+Este repositorio contiene mi entorno personal de **Arch Linux con Hyprland**, incluyendo mis configuraciones de Waybar, Rofi, Kitty, Neovim, Neofetch, Ranger y Waypaper.
 
-Ideal para quienes quieran replicar o inspirarse en mi entorno.
+Ideal si quieres usar, clonar o inspirarte en mi setup.
 
 ---
 
 ## 🌿 Entorno
 
 - **Distro:** Arch Linux  
-- **WM:** Hyprland  
-- **Terminal:** Kitty  
+- **WM:** Hyprland (Wayland)  
+- **Barra:** Waybar  
 - **Launcher:** Rofi  
+- **Terminal:** Kitty  
 - **Editor:** Neovim  
-- **Compositor/WM:** Hyprland (Wayland)  
+- **File Manager:** Ranger  
+- **Wallpapers:** Waypaper + `swww`  
+- **System Info:** Neofetch  
 
 ---
 
-## 📁 Contenido del repositorio
-
-arch-config/
-├─ hypr/ → Configuración de Hyprland
-├─ waybar/ → Barra principal
-├─ rofi/ → Launcher y temas
-├─ kitty/ → Terminal Kitty
-├─ nvim/ → Configuración de Neovim
-├─ ranger/ → Config de Ranger
-├─ neofetch/ → Configuración de Neofetch
-├─ waypaper/ → Configuración de wallpapers
-└─ README.md → Este archivo
+## 📂 Contenido del repositorio
 
 ---
 

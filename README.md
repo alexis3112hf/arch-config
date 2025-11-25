@@ -20,7 +20,28 @@ Ideal si quieres usar, clonar o inspirarte en mi setup.
 
 ---
 
-## 📂 Contenido del repositorio
+## 📂 Imágenes de Escritorio de Arch Linux
+<p align="center">
+  <img src="screenshots/captura.png" width="80%">
+</p>
+<p align="center">
+  <img src="screenshots/captura_1.png" width="80%">
+</p>
+<p align="center">
+  <img src="screenshots/captura_2.png" width="80%">
+</p>
+<p align="center">
+  <img src="screenshots/captura_3.png" width="80%">
+</p>
+<p align="center">
+  <img src="screenshots/captura_4.png" width="80%">
+</p>
+<p align="center">
+  <img src="screenshots/captura_5.png" width="80%">
+</p>
+<p align="center">
+  <img src="screenshots/captura_6.png" width="80%">
+</p>
 
 ---
 
